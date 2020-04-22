@@ -1,0 +1,13 @@
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\bin\Debug\Res\hasznaltufo.mdf
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\bin\Debug\Res\hasznaltufo_log.ldf
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.csprojAssemblyReference.cache
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.FrmKereso.resources
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.FrmMain.resources
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.FrmVevo.resources
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.Properties.Resources.resources
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.csproj.GenerateResource.cache
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.exe
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\obj\Debug\WFA200408A.pdb
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\bin\Debug\WFA200408A.exe.config
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\bin\Debug\WFA200408A.exe
+C:\Users\csaba\Desktop\WFA200408A-master\WFA200408A-master\WFA200408A\bin\Debug\WFA200408A.pdb
